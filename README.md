@@ -1,2 +1,2 @@
 # Striver's DSA Sheet Solutions
-# Link: https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+# Link: https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
